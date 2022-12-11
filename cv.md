@@ -3,7 +3,7 @@
 * Location: Belarus, Homel
 * [Telegram](https://t.me/Depends1488)
 * Email: vlad.mt5@mail.ru
-* GitHub: [Delerium34](https://github.com/Delerium14)
+* GitHub: [Delerium14](https://github.com/Delerium14)
 ---
 ## About me
 I am 25. Graduated from Gomel State Technical University named after Sukhoi. I work as an energy engineer. I want to learn new programming languages.
