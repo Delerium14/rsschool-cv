@@ -2,7 +2,7 @@
 ## **Contact**
 * Location: Belarus, Homel
 * [Telegram](https://t.me/Depends1488)
-* Email: vlad.shulimov@mail.ru
+* Email: vlad.mt5@mail.ru
 * GitHub: [Delerium34](https://github.com/Delerium14)
 ---
 ## About me
