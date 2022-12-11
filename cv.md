@@ -23,5 +23,3 @@ alert(name)
 ## Education
 * Gomel State Technical University named after Sukhoi
 ---
-## Language:
-* English A2
